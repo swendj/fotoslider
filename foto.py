@@ -1614,7 +1614,7 @@ def clicked8():
 
    time.sleep(2)
    try:
-     ftp = ftplib.FTP('hosting111801.a2f33.netcup.net', 'statcam', 'sw371146_AS')#
+     ftp = ftplib.FTP('xxx', 'xxx', 'xxx')
    except:
      print "...Kein FTP möglich."
      print "----------------------------------------------------------"
